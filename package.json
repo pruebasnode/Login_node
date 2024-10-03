@@ -1,0 +1,28 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Prueba login",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/pruebasnode/Login_node"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "node",
+    "login"
+  ],
+  "author": "cris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruebasnode/Login_node/issues"
+  },
+  "homepage": "https://github.com/pruebasnode/Login_node#readme",
+  "dependencies": {
+    "login": "file:"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  }
+}
